@@ -94,7 +94,7 @@ The dashboard includes:
 ## Project Structure
 
 ```
-session-behavior-dashboard/
+session-behavior-analysis-dashboard/
 ├── sql/
 │   └── session_dataset_query.sql
 ├── docs/
